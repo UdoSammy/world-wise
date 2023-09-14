@@ -1,0 +1,26 @@
+{
+  "cities": [
+    {
+      "cityName": "Al Quoz",
+      "country": "Sudan (the)",
+      "emoji": "🇸🇩",
+      "notes": "",
+      "position": {
+        "lat": "12.714432451875847",
+        "lng": "29.794921875000004"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Crevant",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "notes": "",
+      "position": {
+        "lat": "46.49839225859763",
+        "lng": "1.9335937500000002"
+      },
+      "id": 2
+    }
+  ]
+}
